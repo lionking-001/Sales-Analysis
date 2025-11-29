@@ -12,6 +12,19 @@
 This project is an interactive Sales Dashboard designed to visualize key business metrics such as total sales, sales trends, customer insights, regional performance, store divisional performance and product category analysis. The goal of this dashboard is to transform raw sales data into actionable insights using Excel’s analytical features and Power Query for efficient data preparation.
 It was built using Excel, and it provides a clear and insightful view of sales performance to support data-driven decision-making.
 
+
+### Report Dashboard
+
+
+
+
+<img width="807" height="444" alt="Page 1 Peter Dashboard (1)" src="https://github.com/user-attachments/assets/c63fb75c-41d4-4cf7-a86f-c300a7e6d217" />
+
+
+
+<img width="856" height="450" alt="page 2 Peter dashboard(1)" src="https://github.com/user-attachments/assets/d113718f-30c6-4087-bc66-71b4932b4f8d" />
+
+
 ### Tools
 - Microsoft Excel
 - Power Query (Data Cleaning & Transformation)
