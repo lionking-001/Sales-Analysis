@@ -18,7 +18,7 @@ It was built using Excel, and it provides a clear and insightful view of sales p
 
 
 
-<img width="807" height="444" alt="Page 1 Peter Dashboard (1)" src="https://github.com/user-attachments/assets/c63fb75c-41d4-4cf7-a86f-c300a7e6d217" />
+![Sales Dashboard – Page 1](dashboard_page1.png)
 
 
 ![Dashboard](https://github.com/lionking-001/Sales-Analysis/blob/main/page2_peter_dashboard.png?raw=true)
