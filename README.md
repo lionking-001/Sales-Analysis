@@ -15,6 +15,7 @@ It was built using Excel, and it provides a clear and insightful view of sales p
 
 ### Report Dashboard
 
+<img width="808" height="449" alt="dashboard_page1" src="https://github.com/user-attachments/assets/f7125ff7-befc-411c-9ee1-206da2a7b204" />
 
 
 
